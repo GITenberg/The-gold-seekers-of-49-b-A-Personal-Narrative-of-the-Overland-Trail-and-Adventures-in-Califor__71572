@@ -1,0 +1,43 @@
+_repo: The-gold-seekers-of-49-b-A-Personal-Narrative-of-the-Overland-Trail-and-Adventures-in-Califor__71572
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Browne, George Waldo
+    aliases:
+    - Saint Clair, Victor
+    - Browne, George W. (George Waldo)
+    - Browne, G. Waldo (George Waldo)
+    - Clair, Victor St.
+    - St. Clair, Victor
+    birthdate: 1851
+    deathdate: 1930
+    gutenberg_agent_id: '37233'
+    url: http://www.gutenberg.org/2009/agents/37233
+  illustrator:
+    agent_name: Holland, Frank
+    gutenberg_agent_id: '56287'
+    url: http://www.gutenberg.org/2009/agents/56287
+creator:
+  author:
+    agent_name: Webster, Kimball
+    gutenberg_agent_id: '56286'
+    url: http://www.gutenberg.org/2009/agents/56286
+description: ''
+gutenberg_issued: '2023-09-05'
+identifiers:
+  gutenberg: '71572'
+language: en
+pgterms:marc905: 20220526060001webster
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aManchester :$bStandard Book Company, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The gold seekers of ''49 : $b A Personal Narrative of the Overland Trail and
+  Adventures in California and Oregon from 1849 to 1854'
+url: http://www.gutenberg.org/ebooks/71572
