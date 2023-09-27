@@ -17,12 +17,17 @@ contributor:
     agent_name: Holland, Frank
     gutenberg_agent_id: '56287'
     url: http://www.gutenberg.org/2009/agents/56287
+covers:
+- cover_type: archival
+  image_path: 71572-h/images/cover.jpg
 creator:
   author:
     agent_name: Webster, Kimball
     gutenberg_agent_id: '56286'
     url: http://www.gutenberg.org/2009/agents/56286
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71572#The-gold-seekers-of-49-b-A-Personal-Narrative-of-the-Overland-Trail-and-Adventures-in-Califor_
 gutenberg_issued: '2023-09-05'
 identifiers:
   gutenberg: '71572'
